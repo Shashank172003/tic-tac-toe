@@ -14,7 +14,7 @@ A classic **Tic Tac Toe** game built with **React.js** for fun and learning. Thi
 
 | Game Board | Game Over |
 |------------|------------|
-| ![Game Board Screenshot](./src/components/assets/Screenshot%202025-07-26%20144310.png) | ![Game Over Screenshot](./src/components/assets/Screenshot%202025-07-26%20144328.png) |
+| ![Game Board Screenshot](./src/components/assets/Screenshot%202025-07-26%20145816.png) | ![Game Over Screenshot](./src/components/assets/Screenshot%202025-07-26%20144328.png) |
 
 ---
 
