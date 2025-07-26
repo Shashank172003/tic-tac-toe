@@ -34,5 +34,5 @@ A classic **Tic Tac Toe** game built with **React.js** for fun and learning. Thi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/tic-tac-toe.git
+git clone https://github.com/Shashank172003/tic-tac-toe.git
 cd tic-tac-toe
