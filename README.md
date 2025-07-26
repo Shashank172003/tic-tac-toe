@@ -36,3 +36,25 @@ A classic **Tic Tac Toe** game built with **React.js** for fun and learning. Thi
 ```bash
 git clone https://github.com/Shashank172003/tic-tac-toe.git
 cd tic-tac-toe
+
+npm install
+
+npm start
+
+🙌 Contributing
+If you want to contribute:
+
+Fork the repo
+
+Create a new branch (git checkout -b feature-name)
+
+Make your changes
+
+Commit (git commit -m 'Add feature')
+
+Push (git push origin feature-name)
+
+Open a Pull Request
+
+
+
