@@ -41,6 +41,7 @@ npm install
 
 npm start
 
+```
 🙌 Contributing
 If you want to contribute:
 
